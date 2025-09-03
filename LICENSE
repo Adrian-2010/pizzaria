@@ -3,13 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Pizzaria</title>
+  <title>izzaria do seu ze</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
     <div class="container">
-      <h1>Café Aroma</h1>
+      <h1>Pizzaria do seu ze</h1>
       <nav>
         <ul>
           <li><a href="#sobre">Sobre</a></li>
@@ -33,7 +33,7 @@
       <h2>Sobre Nós</h2>
       <div class="conteudo-sobre">
         <img src="images.jfif"
-        <p>Somos uma cafeteria local apaixonada por café de qualidade, ambiente acolhedor e boas conversas.</p>
+        <p>Somos uma Pizzaria local apaixonada por pizzas de qualidade, ambiente acolhedor e boas conversas.</p>
       </div>
     </div>
   </section>
@@ -69,7 +69,7 @@
   <footer id="contato">
     <div class="container">
       <p>📍 Rua das Flores, 123 - Centro | ☎ (11) 98765-4321</p>
-      <p>&copy; 2025 Pizzaria</p>
+      <p>&copy; 2025 Pizzaria do seu ze</p>
     </div>
   </footer>
 </body>
